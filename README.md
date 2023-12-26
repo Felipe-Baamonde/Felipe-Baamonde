@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-baamonde-310002196/)
 
 ![Baamonde GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Baamonde&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Baamonde)](https://github.com/anuraghazra/github-readme-stats)
+<img src= "https://github-readme-stats.vercel.app/api/top-langs?username=Felipe-Baamonde&theme=radical&show_icons=true&locale=en&layout=compact">
 
 <h1>Skills</h1>
 <div style="display: inline_block">
@@ -18,6 +18,4 @@
 <img src= "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <img src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 <img src= "https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white">
-
-
 <div/>
