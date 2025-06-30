@@ -1,6 +1,6 @@
 <h1> Olá! Me chamo Felipe Baamonde 👋 </h1>
-<h4>• 👨‍💻 Cursando Análise e Desenvolvimento de Sistemas - Sptech</h4> 
-<h4> • 📍 Estágiario SalesForce na Meta IT</h4>
+<h4>• 👨‍💻 Formado em Análise e Desenvolvimento de Sistemas - Sptech</h4> 
+<h4> • 📍 Desenvolvedor Salesforce na Meta IT</h4>
 <h4>• 🚀 Apaixonado por tecnologia e inovação</h4> 
 <h4>• ✉️ Email: felipe.baamonde@sptech.school</h4> 
 
